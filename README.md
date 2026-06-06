@@ -5,7 +5,8 @@
 
 # Технические параметры:
 ## - Главная страница: index.html 
-### - Изображения: фон.webp (187 КБ), схема.svg (24 КБ), галерея/*.webp (в сумме 512 КБ)
+### - Изображения: <img width="530" height="559" alt="Фото 1" src="https://github.com/user-attachments/assets/c5acdc2e-c21e-4dc8-86ea-da83a9945b2e" />
+
 ### - Видео: hero.mp4 (1.8 МБ), hero.webm (1.9 МБ)
 ### - Аудио: voiceover.mp3 (340 КБ), voiceover.ogg (380 КБ)
 
